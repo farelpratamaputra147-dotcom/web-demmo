@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-demo-punya-farel/static/css/main.351a17b1.css",
+    "main.js": "/live-demo-punya-farel/static/js/main.2ba89504.js",
+    "index.html": "/live-demo-punya-farel/index.html",
+    "main.351a17b1.css.map": "/live-demo-punya-farel/static/css/main.351a17b1.css.map",
+    "main.2ba89504.js.map": "/live-demo-punya-farel/static/js/main.2ba89504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351a17b1.css",
+    "static/js/main.2ba89504.js"
+  ]
+}
